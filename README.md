@@ -120,7 +120,7 @@
   </div>
 
   <footer>
-    ⭐ Made By Tanveer ⭐
+    ⭐ Made  By  Tanveer ⭐
   </footer>
 
 </body>
