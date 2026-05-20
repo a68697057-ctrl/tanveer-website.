@@ -93,7 +93,7 @@
 
 <body>
 
-  <h1>🌈 Tanveer Class Shop 😎</h1>
+  <h1>🌈 Tanveer Super Mart</h1>
 
   <p>🔥 Best paper items in the class 🔥</p>
 
